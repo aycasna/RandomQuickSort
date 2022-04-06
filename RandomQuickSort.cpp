@@ -1,4 +1,4 @@
-// Ayça Sena Koç - 2004040029
+
 //Lomuto'nun partition şeması kullanılarak QuickSort
 #include <cstdlib>
 #include <time.h>
